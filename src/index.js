@@ -1,5 +1,5 @@
 import './sass/main.scss';
-console.log("йцйцйцйцйцйц");
+
 
 import menuCards from './templates/menu-card.hbs';
 import menu from './menu.json';
